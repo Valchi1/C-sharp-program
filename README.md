@@ -14,3 +14,6 @@ The application will finish by displaying the students name and student number, 
 
 For the purpose of this system, data does not need to persist longer than the application is running. 
 
+link to screencast explaining and running the apllication:
+
+https://share.vidyard.com/watch/HxpWX4y8dc2eig5EfFG4fV?
